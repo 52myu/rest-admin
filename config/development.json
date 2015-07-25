@@ -1,0 +1,18 @@
+{
+	"mongo": {
+		"host": "127.0.0.1", //修改
+		"database": "demo" //修改
+	},
+	"server": {
+		"port": 3703
+	},
+
+	"tracerConfig": {
+		"type": "colorConsole",
+		"arguments": {
+			"level": "log",
+			"format": "{{timestamp}} <{{title}}> {{path}}:{{line}} \n{{message}}",
+			"dateformat": "HH:MM:ss"
+		}
+	}
+}

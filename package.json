@@ -1,0 +1,30 @@
+{
+  "name": "rest-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.11.14",
+    "querystring": "^0.2.0",
+    "restify": "^3.0.3"
+  },
+  "devDependencies": {
+    "config": "^1.14.0",
+    "mongoose": "^4.1.0",
+    "path": "^0.11.14",
+    "restify": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/52myu/rest-admin.git"
+  },
+  "author": "zg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/52myu/rest-admin/issues"
+  },
+  "homepage": "https://github.com/52myu/rest-admin"
+}
